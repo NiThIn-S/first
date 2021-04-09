@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T07:35:54.433Z" agent="5.0 (Windows)" etag="qUkmIRDxBBafpBAkPTvz" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T07:40:57.553Z" agent="5.0 (Windows)" etag="vZurhj53XXRsS6ZQeRl-" version="14.5.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1695" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -145,11 +145,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-51" value="&lt;div align=&quot;left&quot;&gt;Unclear, darker or warped&lt;/div&gt;&lt;div align=&quot;left&quot;&gt; image may make it harder&lt;/div&gt;&lt;div align=&quot;left&quot;&gt; for OCR to function properly.&lt;/div&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="665.25" y="460" width="151" height="60" as="geometry" />
+        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-51" value="&lt;div&gt;Unclear, darker or warped&lt;/div&gt;&lt;div&gt; image may make it harder&lt;/div&gt;&lt;div&gt; for OCR to function properly.&lt;/div&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="660.25" y="460" width="151" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-53" value="&lt;div align=&quot;left&quot;&gt;Data extracted may not &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;make sense as OCR has&lt;/div&gt;&lt;div align=&quot;left&quot;&gt; high variance in prediction.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="670" y="789" width="150" height="50" as="geometry" />
+        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-53" value="&lt;div&gt;Data extracted may not &lt;br&gt;&lt;/div&gt;&lt;div&gt;make sense as OCR has&lt;/div&gt;&lt;div&gt; high variance in prediction.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="661" y="789" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-55" value="Text extracted has very minimal mistakes." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="630" width="150" height="40" as="geometry" />
@@ -186,14 +186,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-85" value="&lt;div align=&quot;left&quot;&gt;Text may contain more mistakes, spelling errors and unrecognized words.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-30" y="630" width="150" height="40" as="geometry" />
+        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-85" value="&lt;div&gt;Text may contain more mistakes, spelling errors and unrecognized words.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-36" y="630" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-86" value="&lt;div align=&quot;left&quot;&gt;Data extracted may not make sense as OCR prediction is not consistent.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-35.989999999999995" y="780" width="136" height="51" as="geometry" />
+        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-86" value="&lt;div&gt;Data extracted may not make sense as OCR prediction is not consistent.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-28.989999999999995" y="780" width="136" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-89" value="&lt;div&gt;But images scanned with dpi settings other than 300 may make it harder for OCR to function properly. &lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=12;textDirection=ltr;html=1;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-46.06" y="467.5" width="180" height="45" as="geometry" />
+        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-89" value="&lt;div&gt;Images scanned with dpi&lt;/div&gt;&lt;div&gt; settings other than 300 &lt;br&gt;&lt;/div&gt;&lt;div&gt;may makeit harder for &lt;br&gt;&lt;/div&gt;&lt;div&gt;OCR to function properly. &lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;textDirection=ltr;html=1;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-32.06" y="460" width="138.06" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="Gegq5p_VePBEVRsmqxeE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gegq5p_VePBEVRsmqxeE-8" target="5NZmGxR7Z9d4b-Xke_Fb-34">
           <mxGeometry relative="1" as="geometry" />
@@ -233,8 +233,8 @@
             <mxPoint x="-58.06999999999999" y="-2.75" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-52" value="&lt;div align=&quot;left&quot;&gt;Text may contain more &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;errors, spelling mistake &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;and unrecognized words.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="678.24" y="630" width="130" height="40" as="geometry" />
+        <mxCell id="5NZmGxR7Z9d4b-Xke_Fb-52" value="&lt;div&gt;Text may contain more &lt;br&gt;&lt;/div&gt;&lt;div&gt;errors, spelling mistake &lt;br&gt;&lt;/div&gt;&lt;div&gt;and unrecognized words.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="672.24" y="630" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
