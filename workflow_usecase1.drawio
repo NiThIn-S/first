@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T08:19:14.993Z" agent="5.0 (Windows)" etag="gzsm8RxDUFwbNtD8fgA3" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T08:21:03.223Z" agent="5.0 (Windows)" etag="7nL5V4aHh_O5ZMudm1P7" version="14.5.8" type="github">
   <diagram id="EFh0KBRHZETYjnB3pXdq" name="Page-1">
     <mxGraphModel dx="868" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -54,11 +54,16 @@
         <mxCell id="5trCwtWoMG07tatODE-i-14" value="&lt;div&gt;Extracting fields &lt;br&gt;&lt;/div&gt;&lt;div&gt;using fuzzy logic and &lt;br&gt;&lt;/div&gt;advanced algorithms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1461" y="395" width="140" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="5trCwtWoMG07tatODE-i-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5trCwtWoMG07tatODE-i-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1930" y="397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-21" value="Data Storage" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingTop=-1;spacingLeft=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1601" y="357" width="152.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-26" value="&lt;div&gt;Stored in database or&lt;/div&gt;&lt;div&gt; exported as csv or excel file.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="1760" y="404" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-27" value="&lt;div style=&quot;font-size: 12px&quot;&gt;Image is enhanced and &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;fed to OCR such that its &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;easier to recognize text.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="386" width="154" height="66" as="geometry" />
