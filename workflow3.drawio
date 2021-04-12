@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T12:16:55.358Z" agent="5.0 (Windows)" etag="Ge_QqyJ2-kkhbLalaiQW" version="14.5.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-12T12:37:07.059Z" agent="5.0 (Windows)" etag="fzZmteUmQ5YUgw_2REW1" version="14.5.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1695" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -240,29 +240,68 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O1p_N1u7pAPEMAb1gq1V" name="Page-2">
-    <mxGraphModel dx="868" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="694" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="XD3poA37Fs1E2vji1I_c-0" />
         <mxCell id="XD3poA37Fs1E2vji1I_c-1" parent="XD3poA37Fs1E2vji1I_c-0" />
-        <object label="Pool" id="ydh4gcex9s8ndb7VglJ_-0">
-          <mxCell style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="XD3poA37Fs1E2vji1I_c-1">
-            <mxGeometry x="230" y="34" width="480" height="380" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="ydh4gcex9s8ndb7VglJ_-1" value="Image Processing" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ydh4gcex9s8ndb7VglJ_-0">
-          <mxGeometry y="20" width="480" height="120" as="geometry" />
+        <mxCell id="VaIvNmGocO2AobiQEw6w-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XD3poA37Fs1E2vji1I_c-1" source="T9hwldAeEJelkzL2UWQI-5" target="VaIvNmGocO2AobiQEw6w-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400.29999999999995" y="-279.54999999999995" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="G0b5WyIS3LgR6JpnTnXC-2" value="&#xa;&lt;div&gt;Images scanned with dpi&lt;/div&gt;&lt;div&gt; settings other than 300 &lt;br&gt;&lt;/div&gt;&lt;div&gt;may makeit harder for &lt;br&gt;&lt;/div&gt;&lt;div&gt;OCR to function properly. &lt;br&gt;&lt;/div&gt;&#xa;&#xa;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ydh4gcex9s8ndb7VglJ_-1">
-          <mxGeometry x="30" y="26" width="140" height="80" as="geometry" />
+        <mxCell id="VaIvNmGocO2AobiQEw6w-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XD3poA37Fs1E2vji1I_c-1" target="VaIvNmGocO2AobiQEw6w-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-200" />
+              <mxPoint x="240" y="-200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ydh4gcex9s8ndb7VglJ_-2" value="text extraction" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ydh4gcex9s8ndb7VglJ_-0">
-          <mxGeometry y="140" width="480" height="120" as="geometry" />
+        <mxCell id="VaIvNmGocO2AobiQEw6w-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XD3poA37Fs1E2vji1I_c-1" target="VaIvNmGocO2AobiQEw6w-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-200" />
+              <mxPoint x="560" y="-200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="G0b5WyIS3LgR6JpnTnXC-1" value="Data extracted may not make sense as OCR prediction is not consistent." style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ydh4gcex9s8ndb7VglJ_-2">
-          <mxGeometry x="30" y="25" width="140" height="70" as="geometry" />
+        <mxCell id="T9hwldAeEJelkzL2UWQI-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XD3poA37Fs1E2vji1I_c-1" source="VaIvNmGocO2AobiQEw6w-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ydh4gcex9s8ndb7VglJ_-3" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ydh4gcex9s8ndb7VglJ_-0">
-          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        <mxCell id="VaIvNmGocO2AobiQEw6w-9" value="&lt;div style=&quot;font-size: 12px&quot;&gt;Image is enhanced and &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;fed to OCR such that its &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;easier to recognize text.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;fontFamily=Times New Roman;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;spacing=6;spacingTop=-1;" vertex="1" parent="XD3poA37Fs1E2vji1I_c-1">
+          <mxGeometry x="331" y="-137" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hwldAeEJelkzL2UWQI-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="XD3poA37Fs1E2vji1I_c-1" source="VaIvNmGocO2AobiQEw6w-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaIvNmGocO2AobiQEw6w-11" value="&lt;div&gt;Unclear, darker or warped&lt;/div&gt;&lt;div&gt; image may make it harder&lt;/div&gt;&lt;div&gt; for OCR to function properly.&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;fontFamily=Times New Roman;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;spacing=6;spacingTop=-1;" vertex="1" parent="XD3poA37Fs1E2vji1I_c-1">
+          <mxGeometry x="490" y="-137" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hwldAeEJelkzL2UWQI-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=none;endFill=0;" edge="1" parent="XD3poA37Fs1E2vji1I_c-1" source="VaIvNmGocO2AobiQEw6w-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaIvNmGocO2AobiQEw6w-13" value="&lt;div&gt;Images scanned with dpi&lt;/div&gt;&lt;div&gt; settings other than 300 &lt;br&gt;&lt;/div&gt;&lt;div&gt;may makeit harder for &lt;br&gt;&lt;/div&gt;&lt;div&gt;OCR to function properly. &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;fontFamily=Times New Roman;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;spacing=6;spacingTop=-1;" vertex="1" parent="XD3poA37Fs1E2vji1I_c-1">
+          <mxGeometry x="170" y="-137" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hwldAeEJelkzL2UWQI-5" value="&#xa;Image Processing&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingTop=12;" vertex="1" parent="XD3poA37Fs1E2vji1I_c-1">
+          <mxGeometry x="341" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYiLhKapwaXAjgaXwPH3-0" value="scanned image" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XD3poA37Fs1E2vji1I_c-1">
+          <mxGeometry x="271" y="-210" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
