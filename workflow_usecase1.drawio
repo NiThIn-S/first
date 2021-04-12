@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T13:27:21.274Z" agent="5.0 (Windows)" etag="zr4HbGyzP9BfukrtX-ja" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T13:30:05.588Z" agent="5.0 (Windows)" etag="RphWaq_Hyn2BoQ-hBNKw" version="14.5.8" type="github">
   <diagram id="EFh0KBRHZETYjnB3pXdq" name="Page-1">
     <mxGraphModel dx="868" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,47 +25,47 @@
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5trCwtWoMG07tatODE-i-1" target="5trCwtWoMG07tatODE-i-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1310" y="395.5" as="targetPoint" />
+            <mxPoint x="1300" y="403" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-1" value="&lt;div&gt;Image preprocessing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="355.5" width="156" height="80" as="geometry" />
+          <mxGeometry x="1060" y="363" width="156" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-8" value="&lt;div&gt;&lt;div&gt;OCR&lt;/div&gt;&lt;div&gt;(Text extraction)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="355.5" width="156" height="80" as="geometry" />
+          <mxGeometry x="1400" y="363" width="156" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5trCwtWoMG07tatODE-i-8" target="5trCwtWoMG07tatODE-i-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1540" y="395.5" as="sourcePoint" />
+            <mxPoint x="1530" y="403" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5trCwtWoMG07tatODE-i-11" target="5trCwtWoMG07tatODE-i-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1998" y="395.5" as="targetPoint" />
+            <mxPoint x="1988" y="403" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-11" value="Text Processing" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1690" y="355.5" width="156" height="80" as="geometry" />
+          <mxGeometry x="1680" y="363" width="156" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-12" value="&lt;div&gt;Extracted text is &lt;br&gt;&lt;/div&gt;&lt;div&gt;stored in a file.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="385.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="1570" y="393" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-14" value="&lt;div&gt;Extracting fields &lt;br&gt;&lt;/div&gt;&lt;div&gt;using fuzzy logic and &lt;br&gt;&lt;/div&gt;advanced algorithms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1861" y="393.5" width="140" height="57" as="geometry" />
+          <mxGeometry x="1851" y="401" width="140" height="57" as="geometry" />
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5trCwtWoMG07tatODE-i-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2330" y="395.5" as="targetPoint" />
+            <mxPoint x="2320" y="403" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-21" value="Data Storage" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingTop=-1;spacingLeft=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2001" y="355.5" width="152.33" height="80" as="geometry" />
+          <mxGeometry x="1991" y="363" width="152.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-26" value="&lt;div&gt;Stored in database or&lt;/div&gt;&lt;div&gt; exported as csv or excel file.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2160" y="402.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="2150" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5trCwtWoMG07tatODE-i-27" value="&lt;div style=&quot;font-size: 12px&quot;&gt;Image is enhanced and &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;fed to OCR such that its &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;easier to recognize text.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="384.5" width="154" height="66" as="geometry" />
+          <mxGeometry x="1230" y="392" width="154" height="66" as="geometry" />
         </mxCell>
         <mxCell id="tKKnGm_5EJdoFxz4O91v-1" value="Patient has the report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="424" width="80" height="20" as="geometry" />
@@ -74,7 +74,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tKKnGm_5EJdoFxz4O91v-2" value="&lt;div&gt;Document scanned in a scanner with default settings (300 dpi)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="563" y="230" width="150" height="60" as="geometry" />
+          <mxGeometry x="548" y="230" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tKKnGm_5EJdoFxz4O91v-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tKKnGm_5EJdoFxz4O91v-5" target="5trCwtWoMG07tatODE-i-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tKKnGm_5EJdoFxz4O91v-5" value="&lt;div&gt;Document validation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="810" y="363" width="156" height="80" as="geometry" />
