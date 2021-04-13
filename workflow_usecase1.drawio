@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T10:56:42.283Z" agent="5.0 (Windows)" etag="eL2fuCVbnmnpQ_bMuz54" version="14.5.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-13T11:09:31.287Z" agent="5.0 (Windows)" etag="JULLNoU3b1cUwsMSuMu_" version="14.5.10" type="github" pages="2">
   <diagram id="EFh0KBRHZETYjnB3pXdq" name="Page-1">
     <mxGraphModel dx="868" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jyu4ZJ26ZVmqsbxUoPeo" name="Page-2">
-    <mxGraphModel dx="2905" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="o2hfjoWAF_u_OFdgpG0D-0" />
         <mxCell id="o2hfjoWAF_u_OFdgpG0D-1" parent="o2hfjoWAF_u_OFdgpG0D-0" />
@@ -154,7 +154,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UGVLcRjBi_6WJQgBoCeH-18" value="Display Fields" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingTop=-1;spacingLeft=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="o2hfjoWAF_u_OFdgpG0D-1">
-          <mxGeometry x="1606" y="240" width="150" height="80" as="geometry" />
+          <mxGeometry x="1570" y="240" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UGVLcRjBi_6WJQgBoCeH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="o2hfjoWAF_u_OFdgpG0D-1" source="UGVLcRjBi_6WJQgBoCeH-20" target="UGVLcRjBi_6WJQgBoCeH-9">
           <mxGeometry relative="1" as="geometry" />
@@ -291,6 +291,9 @@
         </mxCell>
         <mxCell id="fZcjYuV9DUTJkf2nGvl--8" value="Attendant scans all the pages corresponding to a single document or report." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="o2hfjoWAF_u_OFdgpG0D-1">
           <mxGeometry x="410" y="284.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fZcjYuV9DUTJkf2nGvl--13" value="Displaying all fields for validation before adding to database." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="o2hfjoWAF_u_OFdgpG0D-1">
+          <mxGeometry x="1714" y="286.5" width="110" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
