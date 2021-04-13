@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T10:54:14.541Z" agent="5.0 (Windows)" etag="uoP5wswL6qp1QMKP4RQV" version="14.5.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-13T10:56:42.283Z" agent="5.0 (Windows)" etag="eL2fuCVbnmnpQ_bMuz54" version="14.5.10" type="github" pages="2">
   <diagram id="EFh0KBRHZETYjnB3pXdq" name="Page-1">
     <mxGraphModel dx="868" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jyu4ZJ26ZVmqsbxUoPeo" name="Page-2">
-    <mxGraphModel dx="1892" dy="1235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2905" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="o2hfjoWAF_u_OFdgpG0D-0" />
         <mxCell id="o2hfjoWAF_u_OFdgpG0D-1" parent="o2hfjoWAF_u_OFdgpG0D-0" />
@@ -125,7 +125,7 @@
         <mxCell id="46JmEvCyANrwlpRuueAC-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;elbow=vertical;dashed=1;" edge="1" parent="o2hfjoWAF_u_OFdgpG0D-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="189" y="280" as="targetPoint" />
-            <mxPoint x="2090" y="280" as="sourcePoint" />
+            <mxPoint x="2600" y="280" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1840" y="430" />
               <mxPoint x="1410" y="360" />
@@ -215,8 +215,8 @@
         <mxCell id="NJx33ehCZ13B0FkCPsZW-6" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="o2hfjoWAF_u_OFdgpG0D-1">
           <mxGeometry x="1914" y="180" width="12.01" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="NJx33ehCZ13B0FkCPsZW-8" value="Retry with different parameters." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="o2hfjoWAF_u_OFdgpG0D-1">
-          <mxGeometry x="1560" y="54" width="180" height="20" as="geometry" />
+        <mxCell id="NJx33ehCZ13B0FkCPsZW-8" value="Retry with different parameters." style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;fillColor=#ffffff;" vertex="1" parent="o2hfjoWAF_u_OFdgpG0D-1">
+          <mxGeometry x="1371" y="44" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NJx33ehCZ13B0FkCPsZW-13" value="&lt;div&gt;Store entire image or&lt;/div&gt;&lt;div&gt; parts of an image for immediate use/display.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingTop=-1;spacingLeft=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="o2hfjoWAF_u_OFdgpG0D-1">
           <mxGeometry x="1620" y="-120" width="150" height="80" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry x="2651" y="240" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="46JmEvCyANrwlpRuueAC-3" value="Proceed to next document." style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;fillColor=#ffffff;" vertex="1" parent="o2hfjoWAF_u_OFdgpG0D-1">
-          <mxGeometry x="1140" y="410" width="90" height="40" as="geometry" />
+          <mxGeometry x="1379" y="410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fZcjYuV9DUTJkf2nGvl--6" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="o2hfjoWAF_u_OFdgpG0D-1" source="5XgV5AteQLzRAwp2iLGj-0" target="UGVLcRjBi_6WJQgBoCeH-1">
           <mxGeometry relative="1" as="geometry" />
