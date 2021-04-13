@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T06:48:14.564Z" agent="5.0 (Windows)" etag="JaeZhO9kdSR306ENOngx" version="14.5.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-13T06:51:39.114Z" agent="5.0 (Windows)" etag="xaqPygGLqPbg32p499dj" version="14.5.10" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1695" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -387,7 +387,7 @@
           <mxGeometry x="200" y="396" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NCIjhWGpIYJCHgi4TV7V-30" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingTop=-1;spacingLeft=1;fontFamily=Times New Roman;" parent="NCIjhWGpIYJCHgi4TV7V-1" vertex="1">
-          <mxGeometry x="299.23999999999995" y="1317" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="1352" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NCIjhWGpIYJCHgi4TV7V-39" value="&lt;div&gt;Document in the image is either unclear, blurred, tilted or warped/folded, or having insufficient brightness.&lt;/div&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" parent="NCIjhWGpIYJCHgi4TV7V-1" vertex="1">
           <mxGeometry x="408.5" y="423" width="148" height="60" as="geometry" />
@@ -396,7 +396,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NCIjhWGpIYJCHgi4TV7V-54" value="Accuracy of prediction is on average greater than 85%" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingTop=-1;spacingLeft=1;" parent="NCIjhWGpIYJCHgi4TV7V-1" vertex="1">
-          <mxGeometry x="299.24499999999995" y="1184" width="121" height="60" as="geometry" />
+          <mxGeometry x="285.19499999999994" y="1188" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jZBGwwbRQlxu5n_X0xOK-0" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="NCIjhWGpIYJCHgi4TV7V-1">
           <mxGeometry x="379.49" y="307" width="20.51" height="9" as="geometry" />
@@ -456,16 +456,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KJnKXskfay7dMqturbft-6" value="Accuracy of prediction varies widely ranging from 10% to 70%." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingTop=-1;spacingLeft=1;" vertex="1" parent="NCIjhWGpIYJCHgi4TV7V-1">
-          <mxGeometry x="421.255" y="1246" width="120" height="60" as="geometry" />
+          <mxGeometry x="405.755" y="1260" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KJnKXskfay7dMqturbft-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;strokeColor=#000000;" edge="1" parent="NCIjhWGpIYJCHgi4TV7V-1" source="KJnKXskfay7dMqturbft-7" target="NCIjhWGpIYJCHgi4TV7V-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KJnKXskfay7dMqturbft-7" value="&lt;div&gt;Accuracy of prediction &lt;br&gt;&lt;/div&gt;&lt;div&gt;varies from 30% to 80%.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingTop=-1;spacingLeft=1;" vertex="1" parent="NCIjhWGpIYJCHgi4TV7V-1">
-          <mxGeometry x="179.25499999999997" y="1246" width="119" height="60" as="geometry" />
+          <mxGeometry x="162.99499999999998" y="1260" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KJnKXskfay7dMqturbft-14" value="&lt;div&gt;Data can be stored in a database or can be exported as excel or csv file.&lt;/div&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;spacingTop=0;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="NCIjhWGpIYJCHgi4TV7V-1">
-          <mxGeometry x="223.73999999999998" y="1124" width="274" height="29" as="geometry" />
+          <mxGeometry x="223.99999999999997" y="1120" width="275" height="31" as="geometry" />
         </mxCell>
         <mxCell id="zZgqYpNJxXY0KC62r59T-1" value="&lt;div&gt;Document in the image is either unclear or blurred.&lt;/div&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;fillColor=#ffffff;" vertex="1" parent="NCIjhWGpIYJCHgi4TV7V-1">
           <mxGeometry x="164" y="431.5" width="150" height="43" as="geometry" />
